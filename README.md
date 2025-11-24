@@ -177,4 +177,9 @@ Haar Cascade Explained
 
 Python Threading Guide
 
+Screenshots of the working program
+<img width="594" height="494" alt="image" src="https://github.com/user-attachments/assets/d167c72c-1764-4b14-9579-1453cc7131de" />
+
+
+
 Enjoy exploring the world of computer vision! 
