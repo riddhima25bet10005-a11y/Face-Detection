@@ -161,7 +161,7 @@ Could not open webcam": Camera access issues
 
 "No active video feed": Detection not started
 
-📈 Performance Tips
+Performance Tips
 For better accuracy: Use good lighting and front-facing poses
 
 For higher FPS: Disable eye and smile detection
